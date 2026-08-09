@@ -1,7 +1,9 @@
 # AI靈丹軟體 (繁體中文)
-本AI標注、訓練、辨識與管理軟體，是基於網路架構的邊緣運算私雲服務，彈性化的架構有利於未來擴充於於公雲SaaS端服務。緣運算私雲服務能確保使用者的資料集在企業內部，不會有資料外洩的疑慮，公雲服務亦可提供便捷的SaaS端服務。整體系統架構彈性兼顧未來擴充性。
+本 AI 標註、訓練、辨識與管理軟體，是一款基於網路架構的邊緣運算私有雲服務。其彈性化的系統架構不僅有利於未來擴展至公有雲 SaaS 服務，更能透過邊緣運算私有雲的特性，確保使用者的資料集完全保留在企業內部，徹底免除資料外洩的疑慮。整體架構完美兼顧了當前的安全性與未來的擴充性。
 
-又由於影像標記服務需要管理大量照片與標記資料集，一般而言、一個AI辨識物種需要日夜間各個角度照片3000張及標記，本軟體提供半自動標記服務增加標記效率，亦能夠批次上船已經標記好的資料集。此外本系統已經系統化支援YOLOv5、YOLOv7、YOLOv8、YOLOv11、YOLOv11 segmeation 的指令集，無須具程式設計背景便可進行繁瑣的AI模型訓練，完成AI模型的辨識與推論，進而管理每一個經長時間訓練的模型。
+此外，影像標記往往需要管理龐大的照片與資料集（一般而言，訓練單一 AI 辨識物種約需 3,000 張涵蓋日夜間及各角度的照片與標記）。為此，本軟體特別提供「半自動標記」功能以大幅提升作業效率，同時也支援批次上傳已標記完成的資料集。
+
+在模型訓練方面，本系統已全面整合並支援 YOLOv5、YOLOv7、YOLOv8、YOLOv11 及 YOLOv11 segmentation 的指令集。使用者無須具備程式設計背景，即可輕鬆執行繁瑣的 AI 模型訓練、完成辨識與推論，並能高效管理每一個經過長時間訓練的 AI 模型。
 
 # Ailixir Software (English)
 This AI annotation, training, inference, and management software is a web-based edge computing private cloud service. Its flexible architecture facilitates future expansion into public cloud SaaS services. The edge computing private cloud service ensures that users' datasets remain securely within the enterprise, eliminating concerns about data leaks, while public cloud deployments can also offer convenient SaaS solutions. The overall system architecture perfectly balances flexibility with future scalability.
