@@ -32,4 +32,5 @@ Cronologia delle versioni
 
 # Version History
 8/9 2026, release 1.0.27
-* Support Italy language
+* Supported Italy language
+* Fixed some Chinese character showen in other languages.
