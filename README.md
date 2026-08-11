@@ -31,6 +31,9 @@ Cronologia delle versioni
 バージョン履歴
 
 # Version History
+8/11 2026, release 1.0.28
+* Fixed some issues for the UI of Italian language.
+
 8/9 2026, release 1.0.27
 * Supported Italy language
 * Fixed some Chinese character showen in other languages.
