@@ -1,3 +1,14 @@
+# Version History
+8/13 2026, release 1.0.30
+* Fixed username and password setting issues for the account menu
+  
+8/11 2026, release 1.0.28
+* Fixed some issues for the UI of Italian language.
+
+8/9 2026, release 1.0.27
+* Supported Italy language
+* Fixed some Chinese character showen in other languages.
+  
 # AI靈丹軟體 (繁體中文)
 本 AI 標註、訓練、辨識與管理軟體，是一款基於網路架構的邊緣運算私有雲服務。其彈性化的系統架構不僅有利於未來擴展至公有雲 SaaS 服務，更能透過邊緣運算私有雲的特性，確保使用者的資料集完全保留在企業內部，徹底免除資料外洩的疑慮。整體架構完美兼顧了當前的安全性與未來的擴充性。
 
@@ -30,13 +41,4 @@ Cronologia delle versioni
 
 バージョン履歴
 
-# Version History
-8/13 2026, release 1.0.30
-* Fixed username and password setting issues for the account menu
-  
-8/11 2026, release 1.0.28
-* Fixed some issues for the UI of Italian language.
 
-8/9 2026, release 1.0.27
-* Supported Italy language
-* Fixed some Chinese character showen in other languages.
