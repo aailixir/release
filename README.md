@@ -31,6 +31,9 @@ Cronologia delle versioni
 バージョン履歴
 
 # Version History
+8/13 2026, release 1.0.30
+* Fixed username and password setting issues for the account menu
+  
 8/11 2026, release 1.0.28
 * Fixed some issues for the UI of Italian language.
 
