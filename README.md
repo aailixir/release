@@ -1,4 +1,7 @@
 # Version History
+8/14 2026, release 1.0.31
+* Fixed the Listen port 80 to disable for httpd.conf.
+
 8/13 2026, release 1.0.30
 * Fixed username and password setting issues for the account menu
   
