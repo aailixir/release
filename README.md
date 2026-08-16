@@ -7,7 +7,8 @@
 * Fixed YOLOv7 training process.
 * Fixed YOLOv8 training process.
 * Addedd delete ENV button.
-
+* Added to force to use numPy 1.x version.
+  
 8/14 2026, release 1.0.31
 * Fixed the Listen port 80 to disable for httpd.conf.
 * Fixed patchYOLOv7.py patching issue.
