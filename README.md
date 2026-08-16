@@ -1,4 +1,12 @@
 # Version History
+8/16 2026, release 1.0.33
+* Added YouTube, manual, company site for the first page.
+
+8/15 2026, release 1.0.32
+* Fixed YOLOv7 patchYOLOv7.py.
+* Fixed YOLOv7 training process.
+* Fixed YOLOv8 training process.
+
 8/14 2026, release 1.0.31
 * Fixed the Listen port 80 to disable for httpd.conf.
 * Fixed patchYOLOv7.py patching issue.
