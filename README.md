@@ -1,6 +1,7 @@
 # Version History
 8/16 2026, release 1.0.33
 * Added YouTube, manual, company site for the first page.
+* Fixed re-train if the PT file is not there.  Prompt to delete the model.
 
 8/15 2026, release 1.0.32
 * Fixed YOLOv7 patchYOLOv7.py.
