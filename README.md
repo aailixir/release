@@ -1,3 +1,7 @@
+# Future Support
+* Download training report
+* Download PT file for auto generated file name.
+
 # Version History
 8/25 2026, release 1.0.40
 * Fixed augmentation dialog box.
