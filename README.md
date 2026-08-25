@@ -1,8 +1,16 @@
 # Version History
+8/25 2026, release 1.0.40
+* Fixed augmentation dialog box.
+* Fixed video inference.
+* Supported keeping AI models during uninstallation.
+* Supported keeping datasets during uninstallation.
+* Added a progress bar for inference.
+  
 8/16 2026, release 1.0.33
 * Added YouTube, manual, company site for the first page.
 * Fixed re-train if the PT file is not there.  Prompt to delete the model.
-
+* Added Italian language support.
+  
 8/15 2026, release 1.0.32
 * Fixed YOLOv7 patchYOLOv7.py.
 * Fixed YOLOv7 training process.
