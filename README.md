@@ -1,8 +1,11 @@
 # Future Support
 * Download training report
-* Download PT file for auto generated file name.
 
 # Version History
+8/26 2026, release 1.0.41
+* Downloads the best.pt file using an automatically generated filename.
+* Supports deleting image and annotation (.txt) files.
+  
 8/25 2026, release 1.0.40
 * Fixed augmentation dialog box.
 * Fixed video inference.
