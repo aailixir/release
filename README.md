@@ -1,5 +1,6 @@
 # Future Support
 * Download training report
+* Change button name to Workflow
 
 # Version History
 8/26 2026, release 1.0.41
